@@ -1,0 +1,19 @@
+.pageContainer {
+  padding: 52px 32px;
+}
+
+.allManufacturersBtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 174px;
+  height: 48px;
+  border-radius: 100px;
+  border: none;
+  background-color: rgba(0, 0, 0, 0.87);
+  margin-bottom: 20px;
+}
+
+.allManufacturersBtn:hover {
+  background-color: rgba(0, 0, 0, 0.67);
+}
